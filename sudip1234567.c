@@ -1,6 +1,6 @@
 /*       
           Name: sudipta kumar sahoo
-          Program Name : reverse an array                              
+          Program Name : reverse an array in c language                             
 */
 
 /*###########################Program start################################## */
