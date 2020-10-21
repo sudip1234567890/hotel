@@ -1,1 +1,1 @@
-all pull requests will beaccepted
+all pull requests will be accepted
